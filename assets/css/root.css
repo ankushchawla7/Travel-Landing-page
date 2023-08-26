@@ -1,0 +1,167 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Poppins:wght@400;500;600;700&family=Sen:wght@400;500&display=swap');
+
+:root {
+    /* color */
+    --prime-white: #FAF8ED;
+    --white: #fff;
+    --dark-text: #2D3134;
+    --nav-links-color: #2E476B;
+    --para-color: #5B5F62;
+    --navy: #9498A4;
+    --orange: #F66F4D;
+    --footer-links-color:#676A6C;;
+    /* fonts */
+    --fs-vsm:10.35px;
+    --fs-xsm: 12px;
+    --fs-sm: 12.348px;
+    --fs-md: 14px;
+    --fs-xlg: 16px;
+    --fs-lg: 18px; 
+    --fs-mlg: 19px;
+    --fs-xl: 20px;
+    --fs-mxl: 21px;
+    --fs-2xl: 24px;
+    --fs-3xl: 26px;
+    --fs-4xl: 28px;
+    --fs-l-4xl:30px;
+    --fs-5xl: 40px;
+    --fs-6xl: 46px;
+    --fs-7xl: 56px;
+    --fs-8xl: 84px;
+}
+
+.prime-white {
+    color: var(--prime-white);
+}
+.bg-prime-white{
+    background-color: var(--prime-white);
+}
+
+.white {
+    color: var(--white);
+}
+
+.nav-links-color {
+    color: var(--nav-links-color);
+}
+
+.dark-text {
+    color: var(--dark-text);
+}
+
+.para-color {
+    color: var(--para-color);
+}
+
+.navy {
+    color: var(--navy);
+}
+.footer-links-color{
+    color: var(--footer-links-color);
+}
+.orange {
+    color: var(--orange);
+}
+
+.ff-inter {
+    font-family: 'Inter', sans-serif;
+}
+
+.ff-poppins {
+    font-family: 'Poppins', sans-serif;
+}
+
+.ff-sen {
+    font-family: 'Sen', sans-serif;
+}
+.fs-vsm{
+    font-size: var(--fs-vsm);
+}
+.fs-xsm {
+    font-size: var(--fs-xsm);
+}
+
+.fs-sm {
+    font-size: var(--fs-sm);
+}
+
+.fs-md {
+    font-size: var(--fs-md);
+}
+
+.fs-xlg {
+    font-size: var(--fs-xlg);
+}
+
+.fs-lg {
+    font-size: var(--fs-lg);
+}
+
+.fs-mlg {
+    font-size: var(--fs-mlg);
+}
+
+.fs-xl {
+    font-size: var(--fs-xl);
+}
+
+.fs-mxl {
+    font-size: var(--fs-mxl);
+}
+
+.fs-2xl {
+    font-size: var(--fs-2xl);
+}
+
+.fs-3xl {
+    font-size: var(--fs-3xl);
+}
+
+.fs-4xl {
+    font-size: var(--fs-4xl);
+}
+.fs-l-4xl{
+    font-size: var(--fs-l-4xl);
+}
+
+.fs-5xl {
+    font-size: var(--fs-5xl);
+}
+
+.fs-6xl {
+    font-size: var(--fs-6xl);
+}
+
+.fs-7xl {
+    font-size: var(--fs-7xl);
+}
+
+.fs-8xl {
+    font-size: var(--fs-8xl);
+}
+
+.font-400 {
+    font-weight: 400;
+}
+
+.font-500 {
+    font-weight: 500;
+}
+
+.font-600 {
+    font-weight: 600;
+}
+
+.font-700 {
+    font-weight: 700;
+}
+
+.nav-links {
+    color: var(--nav-links-color);
+    font-family: Poppins;
+    font-size: var(--fs-xlg);
+    font-style: normal;
+    font-weight:400;
+    line-height: 16px;
+    letter-spacing: 0.16px;
+}
