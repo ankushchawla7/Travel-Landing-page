@@ -13,7 +13,7 @@
     padding: 19px 34px;
     border-radius: 27px;
     border: 1.4px solid #F66F4D;
-    background-color: white;
+    background-color: #FAF8ED;
 }
 
 .button:hover {
@@ -31,9 +31,12 @@
     padding: 19px 34px;
         border-radius: 27px;
         border: 1.4px solid #F66F4D;
-        background-color: white;
+        background-color: #FAF8ED;
 }
 
+.space-4{
+    letter-spacing: 4px;
+}
 .gap-36 {
     gap: 36px;
 }
@@ -47,12 +50,10 @@
 }
 
 .date-where {
-    width: 80%;
-    height: 76px;
     border-radius: 38px;
     background: white;
     box-shadow: 0px 28px 56px -6px rgba(253, 253, 253);
-    padding: 11px 20px 11px 28px;
+    /* padding: 11px 20px 11px 28px; */
 
 }
 
@@ -634,10 +635,10 @@ footer {
         font-size: var(--fs-vsm);
     }
 
-    .date-where {
+    /* .date-where {
         height: 120px;
         text-align: center;
-    }
+    } */
 }
 
 @media (max-width:768px) {
