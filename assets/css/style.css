@@ -548,7 +548,7 @@ footer {
     left: 0;
     color: white;
     font-size: 75px;
-    z-index: 1;
+    z-index: 50;
     text-align: center;
     display: flex;
     align-items: center;
